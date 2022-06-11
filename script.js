@@ -41,4 +41,4 @@ function countdown(dateEnd) {
 
   function display(days, hours, minutes, seconds) {}
 }
-countdown ('03/19/2021 00:00:00 AM GMT+2');
+countdown ('09/01/2022 00:00:00 AM GMT+2');
