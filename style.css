@@ -53,8 +53,8 @@ body {
 	align-items: center;
 	margin-top: 3.5%;
 	text-shadow：0 0 10px black,0 0 20px black;
-	-webkit-text-stroke: 4px #333;
-	text-stroke: 4px #333;
+	-webkit-text-stroke: 2px #333;
+	text-stroke: 2px #333;
 
 }
 html, body {
