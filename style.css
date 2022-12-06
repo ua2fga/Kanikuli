@@ -52,6 +52,8 @@ body {
 	justify-content: center;
 	align-items: center;
 	margin-top: 3.5%;
+	text-shadow：0 0 10px black,0 0 20px black;
+
 }
 html, body {
 	margin: 0;
